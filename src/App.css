@@ -1,0 +1,30 @@
+
+@import './fonts/fonts.css';
+
+.font-nantes {
+  font-family: 'Nantes', sans-serif;
+}
+
+.some-class {
+  font-family: 'Nantes', sans-serif;
+  font-weight: bold;
+}
+
+
+.font-messina {
+  font-family: 'Messina Sans', sans-serif;
+}
+.some-class {
+  font-family: 'Messina Sans', sans-serif;
+  font-weight: bold;
+}
+
+
+.font-neue {
+  font-family: 'Neue Haas Unica W1G', sans-serif;
+}
+.some-class {
+  font-family: 'Neue Haas Unica W1G', sans-serif;
+  font-weight: bold;
+}
+

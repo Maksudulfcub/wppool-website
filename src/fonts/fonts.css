@@ -1,0 +1,59 @@
+
+@font-face {
+    font-family: 'Nantes';
+    src: url('./Nantes-Regular.woff2') format('woff2'),
+         url('./Nantes-Regular.woff') format('woff'),
+         url('./Nantes-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Nantes';
+    src: url('./Nantes-Bold.woff2') format('woff2'),
+         url('./Nantes-Bold.woff') format('woff'),
+         url('./Nantes-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+/* ------------------------------------------------ */
+
+@font-face {
+    font-family: 'Messina Sans';
+    src: url('./MessinaSans-Regular.woff2') format('woff2'),
+         url('./MessinaSans-Regular.woff') format('woff'),
+         url('./MessinaSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Messina Sans';
+    src: url('./MessinaSans-Bold.woff2') format('woff2'),
+         url('./MessinaSans-Bold.woff') format('woff'),
+         url('./MessinaSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+
+  /* ------------------------------------------------ */
+
+  @font-face {
+    font-family: 'Neue Haas Unica W1G';
+    src: url('./NeueHaasUnicaW1G-Regular.woff2') format('woff2'),
+         url('./NeueHaasUnicaW1G-Regular.woff') format('woff'),
+         url('./NeueHaasUnicaW1G-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Neue Haas Unica W1G';
+    src: url('./NeueHaasUnicaW1G-Bold.woff2') format('woff2'),
+         url('./NeueHaasUnicaW1G-Bold.woff') format('woff'),
+         url('./NeueHaasUnicaW1G-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
