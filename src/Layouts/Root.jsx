@@ -2,6 +2,7 @@ import { Outlet } from "react-router-dom";
 import Footer from "../Pages/Footer/Footer";
 import Home from "../Pages/Home/Home";
 import DaisyNav from "../Pages/Navbar/DaisyNav";
+import "../fonts/fonts.css"
 
 const Root = () => {
     return (

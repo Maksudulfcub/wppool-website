@@ -1,11 +1,25 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
+@import '/src/fonts/fonts.css';
+
+
+.font-nantes {
+  font-family: 'Nantes', sans-serif;
+}
+
+.font-messina {
+  font-family: 'Messina Sans', sans-serif;
+}
+
+.font-neue {
+  font-family: 'Neue Haas Unica W1G', sans-serif;
+}
+
 .font-inter {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
 }
-
 
 
 @tailwind base;
