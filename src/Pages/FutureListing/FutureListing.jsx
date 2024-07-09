@@ -19,34 +19,34 @@ const FutureListing = () => {
             </div>
 
             <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-5 lg:mt-6 mt-3">
-                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-sky-100">
+                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-slate-50">
                     <img className="mx-auto" src={stripe} alt="" />
                 </div>
-                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-sky-100">
+                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-slate-50">
                     <img className="mx-auto mt-3" src={klarna} alt="" />
                 </div>
-                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-sky-100">
+                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-slate-50">
                     <img className="mx-auto" src={plaid} alt="" />
                 </div>
-                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-sky-100">
+                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-slate-50">
                     <img className="mx-auto mt-5" src={checkout} alt="" />
                 </div>
-                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-sky-100">
+                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-slate-50">
                     <img className="mx-auto mt-3" src={revolut} alt="" />
                 </div>
-                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-sky-100">
+                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-slate-50">
                     <img className="mx-auto mt-2" src={chime} alt="" />
                 </div>
-                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-sky-100">
+                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-slate-50">
                     <img className="mx-auto" src={n26} alt="" />
                 </div>
-                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-sky-100">
+                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-slate-50">
                     <img className="mx-auto mt-3" src={brex} alt="" />
                 </div>
-                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-sky-100">
+                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-slate-50">
                     <img className="mx-auto mt-2" src={deel} alt="" />
                 </div>
-                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-sky-100">
+                <div className="p-10 bg-white rounded-lg hover:shadow-2xl hover:duration-500 hover:bg-slate-50">
                     <img className="mx-auto mt-2" src={gusto} alt="" />
                 </div>
             </div>
