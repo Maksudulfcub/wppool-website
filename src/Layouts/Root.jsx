@@ -6,7 +6,7 @@ import "../fonts/fonts.css"
 
 const Root = () => {
     return (
-        <div className="max-w-[1316px] mx-auto bg-[#F5F5F5]">
+        <div className="max-w-[1316px] mx-auto bg-[#EDEDED]">
             <DaisyNav></DaisyNav>
             <Home></Home>
             <Outlet></Outlet>
