@@ -7,7 +7,7 @@ import logo from "../../images/homepage/logo.png";
 const DaisyNav = () => {
     const [open, setOpen] = useState(false);
     return (
-        <div className="navbar fixed z-10 max-w-[1316px] mx-auto font-messina justify-between bg-[#F3F3F3] bg-opacity-30 px-6">
+        <div className="navbar fixed z-10 max-w-[1316px] mx-auto font-messina justify-between bg-[#F3F3F3] bg-opacity-40 px-6">
             <img className="px-3" src={logo} alt="" />
             <div className="gap-5">
                 <div className="space-x-2 sm:block hidden">
